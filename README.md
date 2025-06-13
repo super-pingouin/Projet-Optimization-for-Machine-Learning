@@ -9,3 +9,11 @@ The project is structured as follows:
 - `simple_studies/`: Implements the Fixed Grid Search Experimental Protocol across optimizers and learning rates.
 - `optuna_study/`: Explores Hyperparameter Optimization with Optuna to automatically search for optimal learning rates.
 
+### Installation
+
+Clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/super-pingouin/Projet-Optimization-for-Machine-Learning.git
+cd Projet-Optimization-for-Machine-Learning
+pip install -r requirements.txt
