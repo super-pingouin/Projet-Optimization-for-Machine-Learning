@@ -9,3 +9,5 @@ The project is structured as follows:
 - `simple_studies/`: Implements the Fixed Grid Search Experimental Protocol across optimizers and learning rates.
 - `optuna_study/`: Explores Hyperparameter Optimization with Optuna to automatically search for optimal learning rates.
 
+The experimental results, comparative analyses and key insights are synthesized and discussed in the final report : [Learning_Rate_Sensitivity_in_Adaptive_Optimizers.pdf](./Learning_Rate_Sensitivity_in_Adaptive_Optimizers.pdf)
+
